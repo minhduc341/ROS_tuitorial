@@ -1,1 +1,11 @@
-Learn how to create a node, write publisher-subscriber, write a service with turtlesim 
+Learn how to (with turtlesim):
+
+-Create a ROS Package
+
+-Write publisher and subscriber(Python)
+
+-Write a service 
+
+-Recording and playing back data (bagfiles)
+
+-Reading message from a bag file
