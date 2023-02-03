@@ -1,11 +1,11 @@
 Learn how to (with turtlesim):
 
 -Create a ROS Package
-
 -Write publisher and subscriber(Python)
-
 -Write a service 
-
 -Recording and playing back data (bagfiles)
-
 -Reading message from a bag file
+
+References:
+http://wiki.ros.org/ROS/Tutorials
+https://www.youtube.com/watch?v=wfDJAYTMTdk&feature=youtu.be
