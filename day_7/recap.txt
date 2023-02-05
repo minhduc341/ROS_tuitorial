@@ -5,6 +5,7 @@ Learn how to (with turtlesim):
 -Write a service 
 -Recording and playing back data (bagfiles)
 -Reading message from a bag file
+-Write launch files, args, params
 
 References:
 http://wiki.ros.org/ROS/Tutorials
