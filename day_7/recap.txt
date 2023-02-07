@@ -8,5 +8,6 @@ Learn how to (with turtlesim):
 -Write launch files, args, params
 
 References:
+https://www.youtube.com/watch?v=QhGxqLDeKvA&list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee&index=9
 http://wiki.ros.org/ROS/Tutorials
 https://www.youtube.com/watch?v=wfDJAYTMTdk&feature=youtu.be
